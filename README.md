@@ -7,6 +7,17 @@ We propose a novel deep network architecture for lifelong learning which we refe
 
 If you use this code as part of any published research, please refer the following paper. [DEN](https://arxiv.org/abs/1708.01547/)
 
+```
+@inproceedings{
+    yoon2018lifelong,
+    title={Lifelong Learning with Dynamically Expandable Networks},
+    author={Jaehong Yoon and Eunho Yang and Jeongtae Lee and Sung Ju Hwang},
+    booktitle={International Conference on Learning Representations},
+    year={2018},
+    url={https://openreview.net/forum?id=Sk7KsfW0-},
+}
+```
+
 ## Running Code
 
 We implemented the model as described in the paper based on Tensorflow library, [Tensorflow](https://www.tensorflow.org/).
@@ -29,7 +40,7 @@ python DEN_run.py
 
 ## Authors
 
-[Jaehong Yoon](https://jaehongyoon.wordpress.com/)<sup>1</sup>, [Eunho Yang](https://sites.google.com/site/yangeh/)<sup>2</sup><sup>3</sup>, Jeongtae Lee<sup>1</sup>, and [Sung Ju Hwang](http://www.sungjuhwang.com/)<sup>1</sup><sup>3</sup>
+[Jaehong Yoon](https://jaehongyoon.wordpress.com/)<sup>1</sup>, [Eunho Yang](https://sites.google.com/site/yangeh/)<sup>2</sup><sup>3</sup>, [Jeongtae Lee](https://github.com/jeong-tae)<sup>1</sup>, and [Sung Ju Hwang](http://www.sungjuhwang.com/)<sup>1</sup><sup>3</sup>
 
 <sup>1</sup>[MLVR Lab](http://ml.unist.ac.kr/) @ School of Electrical and Computer Engineering, UNIST, Ulsan, South Korea
 
