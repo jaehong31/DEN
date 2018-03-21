@@ -2,7 +2,6 @@
 
 import numpy as np
 from sklearn.metrics import roc_curve, auc
-import pdb
 
 def accuracy(preds, labels):
     return (100.0 * np.sum(np.argmax(preds, 1) == np.argmax(labels, 1))
