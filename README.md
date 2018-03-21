@@ -5,7 +5,16 @@ We propose a novel deep network architecture for lifelong learning which we refe
 
 ## Reference
 
-If you use this code as part of any published research, please refer the following paper. [DEN](https://arxiv.org/abs/1708.01547/)
+If you use this code as part of any published research, please refer the following paper.
+
+```
+@misc{yoon2018lifelong,
+  title={Lifelong Learning with Dynamically Expandable Networks},
+  author={Yoon, Jaehong and Yang, Eunho and Lee, Jeongtae and Hwang, Sung Ju},
+  year={2018},
+  publisher={ICLR}
+}
+```
 
 ## Running Code
 
