@@ -40,7 +40,7 @@ python DEN_run.py
 
 ## Authors
 
-[Jaehong Yoon](http://jaehong-yoon93.github.io)<sup>1</sup><sup>3</sup><sup>*</sup>, [Eunho Yang](https://sites.google.com/site/yangeh/)<sup>1</sup><sup>3</sup>, Jeongtae Lee<sup>2</sup>, and [Sung Ju Hwang](http://www.sungjuhwang.com/)<sup>1</sup><sup>3</sup>
+[Jaehong Yoon](http://jaehong-yoon93.github.io)<sup>1</sup><sup>3</sup><sup>*</sup>, [Eunho Yang](https://sites.google.com/site/yangeh/)<sup>1</sup><sup>3</sup>, [Jeongtae Lee](https://github.com/jeong-tae)<sup>2</sup>, and [Sung Ju Hwang](http://www.sungjuhwang.com/)<sup>1</sup><sup>3</sup>
 
 <sup>1</sup>[KAIST](http://www.kaist.edu/) @ School of Computing, KAIST, Daejeon, South Korea
 
