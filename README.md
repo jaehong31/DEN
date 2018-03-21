@@ -40,10 +40,12 @@ python DEN_run.py
 
 ## Authors
 
-[Jaehong Yoon](http://jaehong-yoon93.github.io)<sup>1</sup><sup>3</sup>, [Eunho Yang](https://sites.google.com/site/yangeh/)<sup>1</sup><sup>3</sup>, [Jeongtae Lee](https://github.com/jeong-tae)<sup>2</sup>, and [Sung Ju Hwang](http://www.sungjuhwang.com/)<sup>1</sup><sup>3</sup>
+[Jaehong Yoon](http://jaehong-yoon93.github.io)<sup>1</sup><sup>3</sup><sup>*</sup>, [Eunho Yang](https://sites.google.com/site/yangeh/)<sup>1</sup><sup>3</sup>, Jeongtae Lee<sup>2</sup>, and [Sung Ju Hwang](http://www.sungjuhwang.com/)<sup>1</sup><sup>3</sup>
 
 <sup>1</sup>[KAIST](http://www.kaist.edu/) @ School of Computing, KAIST, Daejeon, South Korea
 
 <sup>2</sup>[UNIST](http://www.unist.ac.kr/) @ School of Electrical and Computer Engineering, UNIST, Ulsan, South Korea
 
 <sup>3</sup>[AItrics](https://www.aitrics.com/) @ Seoul, South Korea
+
+<sup>*</sup> Work done while at UNIST
