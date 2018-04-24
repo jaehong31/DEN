@@ -1,7 +1,7 @@
 # Lifelong Learning with Dynamically Expandable Networks
 + Jaehong Yoon(KAIST, AItrics), Eunho Yang(KAIST, AItrics), Jeongtae Lee(UNIST), and Sung Ju Hwang(KAIST, AItrics)
 
-This project hosts the code for our **ICLR 2018** [paper](https://openreview.net/pdf?id=Sk7KsfW0-).
+This project hosts the code for our [**ICLR 2018** PAPER](https://openreview.net/pdf?id=Sk7KsfW0-).
 
 We propose a novel deep network architecture for lifelong learning which we refer to as Dynamically Expandable Network (DEN), that can dynamically decide its network capacity as it trains on a sequence of tasks, to learn a compact overlapping knowledge sharing structure among tasks. DEN is efficiently trained in an online manner by performing selective retraining, dynamically expands network capacity upon arrival of each task with only the necessary number of units, and effectively prevents semantic drift by splitting/duplicating units and timestamping them. We validate DEN on multiple public datasets in lifelong learning scenarios on multiple public datasets, on which it not only significantly outperforms existing lifelong learning methods for deep networks, but also achieves the same level of performance as the batch model with substantially fewer number of parameters. 
 
