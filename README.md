@@ -10,7 +10,7 @@ We propose a novel deep network architecture for lifelong learning which we refe
 If you use this code as part of any published research, please refer the following paper.
 
 ```
-@misc{yoon2018lifelong,
+@inproceedings{yoon2018lifelong,
   title={Lifelong Learning with Dynamically Expandable Networks},
   author={Yoon, Jaehong and Yang, Eunho and Lee, Jeongtae and Hwang, Sung Ju},
   year={2018},
@@ -31,7 +31,7 @@ git clone --recursive https://github.com/jaehong-yoon93/DEN.git DEN
 
 In this code, you can run our model on MNIST dataset with permutation. Then, you don't need to download dataset on your own, just you get the dataset when you run our code.
 
-For convinence, we added the logs that are printed out validation & test accuracy, and several process.
+For convenience, we added the logs that are printed out validation & test accuracy, and several process.
 If you execute DEN_run.py, you can reproduce our model.  
 
 ```
